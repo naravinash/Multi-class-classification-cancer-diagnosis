@@ -11,3 +11,6 @@ PLEASE NOTE: We are not given which class labels has Cancer or not. (https://www
 
 ### Objective:
 Our objective is to AUTOMATE the classifications of mutations based on evidence from text based clinical literature.
+
+### Presentation link
+https://prezi.com/view/hRPEuB0rihHZDwCUreDU/
